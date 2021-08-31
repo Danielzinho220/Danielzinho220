@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel
-- 👀 I’m interested em HTML CSS Javascript, c# web asp.net Framework MVC(front end e beck end)
-- 🌱 I’m currently learning Javascript, c# web asp.net Framework MVC (front end e beck end)
+- 👀  Estou  a procura de entra no mercado de trabalho em desenvolvimento
+- 🌱 I’m currently learning Javascript, c# web asp.net Framework  MVC e Java 
 - 💞️ I’m looking to collaborate on Desenvolvimento de sistema
 - 📫 How to reach me, Meu telefone(19)989433416, Email(daniel.gpna@gmail.com)
 
